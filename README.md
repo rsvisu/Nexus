@@ -7,7 +7,7 @@ Asistente con IA para la web del CPIFP Los Enlaces. Los visitantes le preguntan 
 
 ## Tecnologías
 
-[![Tecnologías](https://skillicons.dev/icons?i=js,vue,tailwind,nodejs,express,supabase)](https://skillicons.dev)
+![Tecnologías](https://skillicons.dev/icons?i=js,vue,tailwind,nodejs,express,supabase)
 
 ## Repositorios
 
