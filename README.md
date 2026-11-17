@@ -16,3 +16,15 @@ Asistente con IA para la web del CPIFP Los Enlaces. Los visitantes le preguntan 
 | API | Recibe los mensajes, busca los fragmentos de documentación más relevantes y genera la respuesta con OpenAI. También gestiona los documentos, el feedback y la configuración. | [PI_NexusBackend](https://github.com/rsvisu/PI_NexusBackend) |
 | Widget de chat | Se incrusta en la web del centro con una sola etiqueta `<script>`. El usuario acepta el tratamiento de sus datos, pregunta y puede valorar cada respuesta o borrar su conversación. | [PI_NexusWidget](https://github.com/rsvisu/PI_NexusWidget) |
 | Panel de administración | Permite ver las conversaciones y métricas, subir y organizar los documentos por carpetas, revisar el feedback negativo y cambiar la configuración del asistente. | [PI_NexusDashboard](https://github.com/rsvisu/PI_NexusDashboard) |
+
+## Capturas
+
+### Widget de chat
+
+![Widget de chat](capturas/widget.png)
+
+### Panel de administración
+
+![Base de conocimientos](capturas/panel-conocimientos.png)
+
+![Conversaciones](capturas/panel-conversaciones.png)
